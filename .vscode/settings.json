@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.rendererType": "dom",
+    "files.associations": {
+        "limits": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "random": "c",
+        "string.h": "c",
+        "cstdint": "c",
+        "stdbool.h": "c"
+    }
+}
